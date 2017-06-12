@@ -1,0 +1,10 @@
+[
+{"Hashtag":"2030now","TotalHashtags":[]},
+{"Hashtag":"costarica","TotalHashtags":[{"total":1962,"Tag":"puravida"},{"total":57,"Tag":"traficocr"},{"total":2,"Tag":"women"}]},
+{"Hashtag":"makeamericagreatagain","TotalHashtags":[{"total":376,"Tag":"women"},{"total":319,"Tag":"trumprussia"}]},
+{"Hashtag":"puravida","TotalHashtags":[{"total":24,"Tag":"traficocr"},{"total":1962,"Tag":"costarica"}]},
+{"Hashtag":"recyclereuse","TotalHashtags":[]},
+{"Hashtag":"traficocr","TotalHashtags":[{"total":57,"Tag":"costarica"},{"total":24,"Tag":"puravida"}]},
+{"Hashtag":"trumprussia","TotalHashtags":[{"total":2016,"Tag":"women"},{"total":319,"Tag":"makeamericagreatagain"}]},
+{"Hashtag":"women","TotalHashtags":[{"total":2016,"Tag":"trumprussia"},{"total":2,"Tag":"costarica"},{"total":376,"Tag":"makeamericagreatagain"}]}
+]
